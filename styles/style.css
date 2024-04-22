@@ -1,0 +1,18 @@
+/* raleway font */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+/* inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.raleway-font {
+    font-family: "Raleway", sans-serif;
+}
+.inter-font{
+    font-family: "Inter", sans-serif;
+}
+kbd:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.terms-policy:hover{
+    text-decoration: underline;
+}
